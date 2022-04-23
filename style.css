@@ -1,0 +1,27 @@
+body {
+    background-color: aquamarine;
+}
+
+.name{
+    margin-top: 250px;
+}
+
+.name h1{
+    text-align: center;
+}
+.profile p{
+    text-align: center;
+    letter-spacing: 7px;
+}
+
+li{
+    list-style: none;
+}
+
+.menu a{
+    text-decoration: none;
+}
+
+.menu{
+    margin-top: 250px
+}
